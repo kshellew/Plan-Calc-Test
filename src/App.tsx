@@ -35,6 +35,7 @@ function App() {
       <Button size="sm" onClick={onClick}>
         Click me
       </Button>
+      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrXzIm3xypkIn2qETwoQpyFJTQiK0b-m2C2qtycTgAlBUAE9CQKL5wXjS06yruDKQXfzdvyDwWlfDn/pubhtml?gid=1118442371&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
     </div>
   );
 }
